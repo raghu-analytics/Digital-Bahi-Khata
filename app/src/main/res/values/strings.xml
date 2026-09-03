@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">डिजिटल बही-खाता</string>
+    <string name="app_subtitle">दुकानदार का डिजिटल खाता-बही</string>
+    <string name="home">होम</string>
+    <string name="customers">ग्राहक</string>
+    <string name="transactions">लेन-देन</string>
+    <string name="reports">मासिक रिपोर्ट</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="help_faq">मदद एवं सहायता</string>
+
+    <string name="udhar">उधार (Debit)</string>
+    <string name="jama">जमा (Credit)</string>
+    <string name="bakaya">कुल बकाया</string>
+    <string name="today_udhar">आज का उधार</string>
+    <string name="today_jama">आज का जमा</string>
+    <string name="active_customers_today">सक्रिय ग्राहक (आज)</string>
+
+    <string name="add_customer">नया ग्राहक जोड़ें</string>
+    <string name="search_customer">ग्राहक खोजें (नाम या कोड)...</string>
+    <string name="customer_name">ग्राहक का नाम</string>
+    <string name="customer_code">ग्राहक कोड</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="address">पता</string>
+    <string name="save">सुरक्षित करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="edit">संपादित करें</string>
+    <string name="confirm">पुष्टि करें</string>
+
+    <string name="amount_inr">रुपये (₹)</string>
+    <string name="description">विवरण / सामान का विवरण</string>
+    <string name="date">दिनांक</string>
+    <string name="time">समय</string>
+    <string name="quick_entry">नया लेन-देन</string>
+    <string name="export_pdf">PDF डाउनलोड / साझा करें</string>
+    <string name="export_excel">Excel फाइल बनाएं</string>
+</resources>

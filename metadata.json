@@ -1,0 +1,6 @@
+{
+  "name": "Digital Bahi-Khata",
+  "description": "Digital shop ledger app for Hindi merchants with offline Room database, customer management, udhar-jama tracking, calculator, monthly reports, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
